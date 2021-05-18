@@ -1,0 +1,27 @@
+{
+  "name": "avoir-node",
+  "version": "1.0.0",
+  "description": "amre kaccchi de",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "bla",
+    "bla",
+    "bla"
+  ],
+  "author": "Nijhu",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1",
+    "node": "^16.1.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
